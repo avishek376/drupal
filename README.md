@@ -1,5 +1,5 @@
 :::Requirements:::
-    Story: As a user, one should be able to see the Site location and the current time for the location.
+      As a user, one should be able to see the Site location and the current time for the location.
 
     Implementation details:
     Add an ADMIN CONFIGURATION form which will take the following inputs:
