@@ -1,0 +1,4 @@
+services:
+  custom_service.dbservice:
+    class: Drupal\custom_service\services\DBService
+    arguments: ['@database']

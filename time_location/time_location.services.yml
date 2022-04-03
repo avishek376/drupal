@@ -1,0 +1,4 @@
+services:
+  time_location.timeService:
+    class: Drupal\time_location\services\TimeService
+    #arguments: ['@state', '@datetime.time']

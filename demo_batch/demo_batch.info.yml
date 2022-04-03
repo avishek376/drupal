@@ -1,0 +1,5 @@
+name: Demo Batch
+type: module
+description: A batch for demo purpose
+core_version_requirement: ^8 || ^9
+package: Custom
