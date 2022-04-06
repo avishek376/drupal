@@ -1,0 +1,4 @@
+name: Demo Rest Services
+type: module
+core_version_requirement: ^8 || ^9
+description: Rest services creation via ResourceBase plugin

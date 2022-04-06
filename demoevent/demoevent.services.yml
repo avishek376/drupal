@@ -2,7 +2,7 @@ services:
   # Name of this service.
   demoevent.demo_event_subscribe:
     # Event subscriber class that will listen for the events.
-    class: '\Drupal\demoevent\EventSubscriber\demoEventSubscriberExample'
+    class: '\Drupal\demoevent\EventSubscriber\DemoEventSubscriberExample'
     # Tagged as an event_subscriber to register this subscriber with the event_dispatch service.
     tags:
       - { name: 'event_subscriber' }
